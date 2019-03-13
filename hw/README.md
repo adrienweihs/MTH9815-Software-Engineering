@@ -1,0 +1,1 @@
+'main' in each exercise folder is the g++ compiled binary file. You can use ./main to run.
